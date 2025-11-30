@@ -58,6 +58,7 @@ news-portal/
 1. **Клонируйте репозиторий**:
 ```bash
 git clone https://github.com/your-username/news-portal.git
+```
 
 2. **Откройте в браузере**:
 
